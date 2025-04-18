@@ -20,5 +20,3 @@ The game simulates the life of cells on a two-dimensional field. Each cell can b
 - Mode of drawing cells with the mouse
 
 ![image](https://github.com/user-attachments/assets/ddccbf11-1b2e-4ba9-8771-61fe85a996f7)
-
-   git clone https://github.com/твій-нік/GameLifeWpf.git
